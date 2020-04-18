@@ -1,7 +1,7 @@
 # COVID19-N20
 
 ## Description
-I process the COVID-19 data provided by [Johns Hopkins CSSE]((https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)). For World Data, first I split original data by countries. Then I tag the day as day 1 when there are at least 20 confirmed cases in that country. Finally I drop previous days before day 1. For US data, I split original data by states and do the same.
+I process the COVID-19 data provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series). For World Data, first I split original data by countries. Then I tag the day as day 1 when there are at least 20 confirmed cases in that country. Finally I drop previous days before day 1. For US data, I split original data by states and do the same.
 
 For example: 
 - [2020-04-18 US.csv](https://github.com/secregister01/COVID19-N20/blob/master/DateWorld/2020-04-18/DroppedDay/US.csv)
