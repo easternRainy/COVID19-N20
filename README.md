@@ -27,7 +27,7 @@ For example:
 This idea comes from the [blog](https://statisticsbyjim.com/basics/coronavirus). The author points out that setting the first day when there exist at least 20 confirmed cases can help people compare the situations in diffent regions by almost the same initial condition.
 
 ## Update
-I will update the repository each day after Johns Hopkins CSSE updates their data until the end of COVID-19.
+I will update the repository each day after Johns Hopkins CSSE updates their data until the end of COVID-19. So the dataset in today's folder may contain data from 3/2/20 to today or to yesterday. Feel free to use the data to do further analysis.
 
 
 ## References:
