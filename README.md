@@ -21,7 +21,7 @@ For example:
 	- deaths: cumulative death cases in California
 	- new_confirmed: new confirmed cases in some day
 	- new_deaths: new death cases in some day
-	- tagged_day: how many days since "day 1", when there are at least 20 confirmed cases in California
+	- tagged_day: how many days since "day 1", when there are at least 10 confirmed cases in California
 
 ## Why N20?
 This idea comes from the [blog](https://statisticsbyjim.com/basics/coronavirus). The author points out that setting the first day when there exist at least 20 confirmed cases can help people compare the situations in diffent regions by almost the same initial condition.
