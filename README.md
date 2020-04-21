@@ -24,10 +24,10 @@ For example:
 	- tagged_day: how many days since "day 1", when there are at least 10 confirmed cases in California
 
 ## Why N20?
-This idea comes from the [blog](https://statisticsbyjim.com/basics/coronavirus). The author points out that setting the first day when there exist at least 20 confirmed cases can help people compare the situations in diffent regions by almost the same initial condition.
+This idea comes from the [blog](https://statisticsbyjim.com/basics/coronavirus). The author points out that setting the first day when there exist at least 20 confirmed cases can help people compare the situations in different regions by almost the same initial condition.
 
 ## Update
-I will update the repository each day after Johns Hopkins CSSE updates their data until the end of COVID-19. So the dataset in today's folder may contain data from 3/2/20 to today or to yesterday. Feel free to use the data to do further analysis.
+I will update the repository each day after Johns Hopkins CSSE updates their data until the end of COVID-19. So the dataset in today's folder may contain data upto today or yesterday. Feel free to use the data to do further analysis.
 
 
 ## References:
