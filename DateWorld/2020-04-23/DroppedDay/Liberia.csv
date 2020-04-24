@@ -1,0 +1,16 @@
+country,date,confirmed,deaths,new_confirmed,new_deaths,tagged_day
+Liberia,4/8/20,31,4,17,1,1
+Liberia,4/9/20,31,4,0,0,2
+Liberia,4/10/20,37,5,6,1,3
+Liberia,4/11/20,48,5,11,0,4
+Liberia,4/12/20,50,5,2,0,5
+Liberia,4/13/20,59,6,9,1,6
+Liberia,4/14/20,59,6,0,0,7
+Liberia,4/15/20,59,6,0,0,8
+Liberia,4/16/20,59,6,0,0,9
+Liberia,4/17/20,76,7,17,1,10
+Liberia,4/18/20,76,7,0,0,11
+Liberia,4/19/20,91,8,15,1,12
+Liberia,4/20/20,99,8,8,0,13
+Liberia,4/21/20,101,8,2,0,14
+Liberia,4/22/20,101,8,0,0,15

@@ -1,0 +1,10 @@
+country,date,confirmed,deaths,new_confirmed,new_deaths,tagged_day
+Mongolia,4/14/20,30,0,13,0,1
+Mongolia,4/15/20,30,0,0,0,2
+Mongolia,4/16/20,31,0,1,0,3
+Mongolia,4/17/20,31,0,0,0,4
+Mongolia,4/18/20,31,0,0,0,5
+Mongolia,4/19/20,32,0,1,0,6
+Mongolia,4/20/20,33,0,1,0,7
+Mongolia,4/21/20,34,0,1,0,8
+Mongolia,4/22/20,35,0,1,0,9
