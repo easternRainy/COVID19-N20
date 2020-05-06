@@ -1,0 +1,8 @@
+country,date,confirmed,deaths,new_confirmed,new_deaths,tagged_day
+Grenada,4/29/20,20,0,1,0,1
+Grenada,4/30/20,20,0,0,0,2
+Grenada,5/1/20,20,0,0,0,3
+Grenada,5/2/20,21,0,1,0,4
+Grenada,5/3/20,21,0,0,0,5
+Grenada,5/4/20,21,0,0,0,6
+Grenada,5/5/20,21,0,0,0,7
