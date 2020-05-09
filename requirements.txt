@@ -1,0 +1,12 @@
+pandas
+scipy
+sklearn
+matplotlib
+datetime
+os
+requests
+re
+numpy
+bs4
+csv
+sys
