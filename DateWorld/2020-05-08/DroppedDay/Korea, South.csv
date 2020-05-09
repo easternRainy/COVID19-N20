@@ -91,3 +91,4 @@ country,date,confirmed,deaths,new_confirmed,new_deaths,tagged_day
 "Korea, South",5/5/20,10806,255,2,1,90
 "Korea, South",5/6/20,10810,256,4,1,91
 "Korea, South",5/7/20,10822,256,12,0,92
+"Korea, South",5/8/20,10840,256,18,0,93
