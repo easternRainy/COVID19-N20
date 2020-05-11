@@ -1,8 +1,0 @@
-country,date,confirmed,deaths,new_confirmed,new_deaths,tagged_day
-Tajikistan,5/2/20,76,2,61,2,1
-Tajikistan,5/3/20,128,2,52,0,2
-Tajikistan,5/4/20,230,3,102,1,3
-Tajikistan,5/5/20,293,5,63,2,4
-Tajikistan,5/6/20,379,8,86,3,5
-Tajikistan,5/7/20,461,12,82,4,6
-Tajikistan,5/8/20,522,12,61,0,7
