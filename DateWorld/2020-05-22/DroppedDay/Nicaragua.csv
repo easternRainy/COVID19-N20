@@ -1,0 +1,12 @@
+country,date,confirmed,deaths,new_confirmed,new_deaths,tagged_day
+Nicaragua,5/12/20,25,8,9,3,1
+Nicaragua,5/13/20,25,8,0,0,2
+Nicaragua,5/14/20,25,8,0,0,3
+Nicaragua,5/15/20,25,8,0,0,4
+Nicaragua,5/16/20,25,8,0,0,5
+Nicaragua,5/17/20,25,8,0,0,6
+Nicaragua,5/18/20,25,8,0,0,7
+Nicaragua,5/19/20,254,17,229,9,8
+Nicaragua,5/20/20,254,17,0,0,9
+Nicaragua,5/21/20,279,17,25,0,10
+Nicaragua,5/22/20,279,17,0,0,11

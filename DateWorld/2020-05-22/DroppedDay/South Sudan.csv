@@ -1,0 +1,26 @@
+country,date,confirmed,deaths,new_confirmed,new_deaths,tagged_day
+South Sudan,4/28/20,34,0,28,0,1
+South Sudan,4/29/20,34,0,0,0,2
+South Sudan,4/30/20,35,0,1,0,3
+South Sudan,5/1/20,45,0,10,0,4
+South Sudan,5/2/20,45,0,0,0,5
+South Sudan,5/3/20,46,0,1,0,6
+South Sudan,5/4/20,46,0,0,0,7
+South Sudan,5/5/20,52,0,6,0,8
+South Sudan,5/6/20,58,0,6,0,9
+South Sudan,5/7/20,74,0,16,0,10
+South Sudan,5/8/20,120,0,46,0,11
+South Sudan,5/9/20,120,0,0,0,12
+South Sudan,5/10/20,120,0,0,0,13
+South Sudan,5/11/20,156,0,36,0,14
+South Sudan,5/12/20,194,0,38,0,15
+South Sudan,5/13/20,203,0,9,0,16
+South Sudan,5/14/20,203,0,0,0,17
+South Sudan,5/15/20,236,4,33,4,18
+South Sudan,5/16/20,236,4,0,0,19
+South Sudan,5/17/20,290,4,54,0,20
+South Sudan,5/18/20,290,4,0,0,21
+South Sudan,5/19/20,290,4,0,0,22
+South Sudan,5/20/20,290,4,0,0,23
+South Sudan,5/21/20,481,4,191,0,24
+South Sudan,5/22/20,563,6,82,2,25
