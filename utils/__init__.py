@@ -32,45 +32,28 @@ def create_paths(ROOT):
 		exit(1)
 		
 	WORK = f"{DATE}/{today}"
-	RAW_DATA = f"{WORK}/RawData"
-	CUM = f"{WORK}/CumulativeCases"
-	DEA = f"{WORK}/DeathCases"
+
 	DRP = f"{WORK}/DroppedDay"
-	N_CASE = f"{WORK}/NewCases"
-	N_CFM = f"{WORK}/NewConfirmed"
-	N_DEA = f"{WORK}/NewDeaths"
-	SPLIT = f"{WORK}/Split"
-	TAG_DAY = f"{WORK}/TaggedDay"
+	
 	ANA = f"{WORK}/Analysis"
 	LR = f"{ANA}/LogisticRegression"
-	RNN = f"{ANA}/RNN"
-	RNNNC = f"{ANA}/RNN_New_Confirmed"
-
+	
 	# modify global variables
 	p.DATE = DATE
 	p.today = today
 	p.ITEM = ITEM
 	p.WORK = WORK
-	p.RAW_DATA = RAW_DATA
-	p.CUM = CUM
-	p.DEA = DEA
 	p.DRP = DRP
-	p.N_CASE = N_CASE
-	p.N_CFM = N_CFM
-	p.N_DEA = N_DEA
-	p.SPLIT = SPLIT
-	p.TAG_DAY = TAG_DAY
 	p.ANA = ANA
 	p.LR = LR
-	p.RNN = RNN
-	p.RNNNC = RNNNC
+	
 
 
 
 	if DATE not in os.listdir():
 		os.mkdir(DATE)
 
-	paths = [WORK, RAW_DATA, CUM, DEA, DRP, N_CASE, N_CFM, N_DEA, SPLIT, TAG_DAY, ANA, LR, RNN, RNNNC]
+	paths = [WORK, DRP, ANA, LR]
 	for path in paths:
 		create_path(path)
 

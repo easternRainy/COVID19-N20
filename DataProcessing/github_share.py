@@ -12,6 +12,7 @@ def add_paths():
 	
 	os.system(f"git add {p.DRP}/*")
 	os.system(f"git add {p.LR}/*")
+	os.system(f"git add ../Notebooks/*")
 
 # remove all the paths that is yesterday and before
 def remove_local_paths():

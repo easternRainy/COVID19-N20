@@ -36,9 +36,7 @@ def main():
 
 	X_FIELD = "tagged_day"
 	
-
-	df = pd.read_csv(f"{p.RAW_DATA}/data.csv")
-	items = list(set(df[p.ITEM].array))
+	items = list(set([file.replace(".csv", "") for file in os.listdir(p.DRP) if file.endswith('.csv')]))
 	items.sort()
 
 	index_item = {}
