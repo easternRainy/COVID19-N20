@@ -82,7 +82,7 @@ cd DataProcessing
 
 ## Examples
 - [Data Visualization](Notebooks/DataVisualization.ipynb)
-- [Logistic Analysis](Notebook/LogisticModel.ipynb)
+- [Logistic Analysis](Notebooks/LogisticModel.ipynb)
 
 ## References:
 - https://github.com/CSSEGISandData/COVID-19
