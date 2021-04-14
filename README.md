@@ -81,9 +81,8 @@ cd DataProcessing
 ```
 
 ## Examples
-- [![Data Visualization (Open in Colab)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/secregister01/2020-04-13_COVID19-N20/blob/master/Notebooks/DataVisualization.ipynb)
-- [Data Visualization](Notebooks/DataVisualization.ipynb)
-- [Logistic Analysis](Notebooks/LogisticModel.ipynb)
+- [Data Visualization](Notebooks/DataVisualization.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/secregister01/2020-04-13_COVID19-N20/blob/master/Notebooks/DataVisualization.ipynb)
+- [Logistic Analysis](Notebooks/LogisticModel.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/secregister01/2020-04-13_COVID19-N20/blob/master/Notebooks/LogisticModel.ipynb)
 
 ## References:
 - https://github.com/CSSEGISandData/COVID-19
